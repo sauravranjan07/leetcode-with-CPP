@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/geekysaurav007/c-leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1500-count-largest-group) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/geekysaurav007/c-leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/geekysaurav007/c-leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/geekysaurav007/c-leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1500-count-largest-group](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2050-count-good-numbers) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
