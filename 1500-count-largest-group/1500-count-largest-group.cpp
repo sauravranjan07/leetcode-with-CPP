@@ -15,11 +15,7 @@ public:
         int cnt = 0;
         for (int i = 1; i <= n; i++) {
             int res = get_sum(i);
-            if (mp[res]) {
-                mp[res]++;
-            } else {
-                mp[res] = 1;
-            }
+           mp[res]++;
             maxi = max(maxi, mp[res]);
         }
         for (auto it : mp) {
