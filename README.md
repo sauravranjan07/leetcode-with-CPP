@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/geekysaurav007/c-leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/geekysaurav007/c-leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/geekysaurav007/c-leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/geekysaurav007/c-leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/geekysaurav007/c-leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1500-count-largest-group) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2050-count-good-numbers) |
