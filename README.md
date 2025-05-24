@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/geekysaurav007/c-leetcode/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/geekysaurav007/c-leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/geekysaurav007/c-leetcode/tree/master/0090-subsets-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/geekysaurav007/c-leetcode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/geekysaurav007/c-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0295-find-median-from-data-stream) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/geekysaurav007/c-leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0347-top-k-frequent-elements) |
