@@ -27,10 +27,7 @@ public:
         while (!pq.empty()) {
             auto temp = pq.top();
             pq.pop();
-            while (temp.second) {
-                ans += temp.first;
-                temp.second--;
-            }
+            ans.append(temp.second,temp.first);
         }
         return ans;
     }
