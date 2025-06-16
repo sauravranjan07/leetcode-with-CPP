@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0205-isomorphic-strings) |
 | [0567-permutation-in-string](https://github.com/geekysaurav007/c-leetcode/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/geekysaurav007/c-leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1250-longest-common-subsequence](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1250-longest-common-subsequence) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/0812-rotate-string) |
 ## Memoization
 |  |
 | ------- |
