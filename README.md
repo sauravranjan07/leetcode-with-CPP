@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/geekysaurav007/c-leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/geekysaurav007/c-leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1923-sentence-similarity-iii](https://github.com/geekysaurav007/c-leetcode/tree/master/1923-sentence-similarity-iii) |
 | [2032-largest-odd-number-in-string](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/geekysaurav007/c-leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1370-count-number-of-nice-subarrays](https://github.com/geekysaurav007/c-leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1500-count-largest-group) |
+| [1885-count-number-of-homogenous-substrings](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/geekysaurav007/leetcode-with-CPP/tree/master/2050-count-good-numbers) |
